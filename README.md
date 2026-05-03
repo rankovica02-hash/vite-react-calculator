@@ -8,7 +8,7 @@ _Mini web kalkulator. React 19 · Vite 6 · TypeScript 5._
 
 ## Demo
 
-Live: 
+Live: vite-react-calculator-76qz8cw4q-aleksandarankovic-s-projects1.vercel.app
 
 ---
 
